@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.js"></script>
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js"></script>
+</head>
+
+<body ng-app="app">
+  <div ng-controller="ctrl" class='box'>
+    <div class='box2' ng-repeat="i in items track by $index">
+    </div>
+    
+  </div>
+
+</html>
