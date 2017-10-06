@@ -194,3 +194,4 @@ requestAnimationFrame(doAnimation)
 
 - [Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/)
 - [CSS Triggers](https://csstriggers.com/)
+- [Code snippets demos](https://github.com/guyogev/client-optimizations-playground)
